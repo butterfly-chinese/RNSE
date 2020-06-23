@@ -1,7 +1,7 @@
 # Regularized Non-negative Spectral Embedding for Clustering
 This is the code of the proposed clustering algorithm of paper &lt;Regularized Non-negative Spectral Embedding for Clustering>.
 
-There are 5 matlab files here.  
+##There are 5 matlab files here.  
 
 The file `ClusteringMeasure.m` outputs the acc, NMI and purity of the clustering result.  
 
