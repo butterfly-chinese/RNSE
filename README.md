@@ -1,7 +1,7 @@
 # Regularized Non-negative Spectral Embedding for Clustering
 This is the code of the proposed clustering algorithm of paper &lt;Regularized Non-negative Spectral Embedding for Clustering>.
 
-Yifei Wang, Rui Liu, Yong Chen (corresponding), Hui Zhang, Zhiwen Ye: Regularized Non-Negative Spectral Embedding for Clustering. ICTAI 2019: 493-500
+<a href="https://ieeexplore.ieee.org/document/8995228">Yifei Wang, Rui Liu, Yong Chen (corresponding), Hui Zhang, Zhiwen Ye: Regularized Non-Negative Spectral Embedding for Clustering. ICTAI 2019: 493-500.</a>
 
 
 ## There are 5 matlab files here.  
